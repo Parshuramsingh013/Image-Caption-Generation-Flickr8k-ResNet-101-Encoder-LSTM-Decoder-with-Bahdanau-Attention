@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+image
+*.pt
+*.zip
+flicker8k/
+flickr8k/flickr8k/images
+flickr8k/flickr8k/captions.txt
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,14 @@
+collection
+pathlib
+typing
+numpy
+pillow
+tqdm
+torch
+torchvision
+nltk
+pytest-warnings
+matplotlib
+pandas
+ipython
+gradio
